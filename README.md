@@ -9,3 +9,4 @@ node and mongodb integration
 // to access >>gulp command from command line
 
 >>npm install mongoose --save
+>>npm install body-parser --save
